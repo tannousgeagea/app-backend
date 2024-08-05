@@ -1,0 +1,5 @@
+.docker-conf/
+__pycache__
+db.sqlite3
+# .env
+
